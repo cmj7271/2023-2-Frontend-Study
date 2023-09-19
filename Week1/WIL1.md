@@ -480,7 +480,3 @@ HTML 에서 `id` 가 `button` 인 요소를 가지고 와 `button_1` 에 저장�
 `break` 나 `continue` 도 비슷하지만, `break ${label_name}` 으로 사용할 수 있다.  
 이들은 label 된 해당 문장으로 돌아간다.  
 문장에는 `labal : sentence` 형식으로 labeling 가능하다.
-
-## 망델브로 집합 예제
-
----
